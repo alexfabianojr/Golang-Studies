@@ -1,0 +1,6 @@
+Quando lidamos com mais de um pacote precisamos usar um modulo
+- Pacotes do go, github, outros locais de armazenamento
+- Para criar um modulo usamos o comando: go mod init [nome-do-modulo]
+- O programa vai criar um arquivo chamado go.mod equivalente a um package-json do nodejs
+
+- Criando um arquivo executavel .exe: go build
